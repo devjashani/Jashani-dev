@@ -1,6 +1,5 @@
 # Jashani-dev 
-hey there i am dev jashani student of computer science and engoineering.
+hey there i am dev jashani student of computer science and engineering.
 <br>
 Btech 2nd year.
-<br>
-But i am in 4th sem.
+
